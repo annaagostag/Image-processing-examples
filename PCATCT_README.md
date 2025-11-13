@@ -48,3 +48,6 @@ Anna Agosta G’meiner
 Advanced Digital Image Processing  
 Instructor: Rob Hodder  
 Date: March 3, 2024 
+
+## Disclaimer  
+This code was developed as part of the course REMS6023 – Advanced Digital Image Processing and is intended for educational and demonstration purposes only.
