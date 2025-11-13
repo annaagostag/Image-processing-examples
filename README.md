@@ -1,6 +1,6 @@
 # COGS Code Examples (Educational Only)
 
-**Author:** Anna Agosta G'meiner
+**Author:** Anna Agosta G'meiner  
 **Date:** 2023–2025  
 
 This repository contains Python code examples created as part of assignments and coursework. Each script demonstrates concepts learned in class, including image processing, LiDAR analysis, and geospatial workflows.  
