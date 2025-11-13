@@ -39,6 +39,9 @@ Cutline_Polygon.shp - shapefile polygon of the mosaic cutline
 
 ## Author
 Anna Agosta G’meiner
+
 Advanced Digital Image Processing
+
 Instructor: Rob Hodder
+
 Date: January 31, 2024
